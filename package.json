@@ -1,0 +1,19 @@
+{
+  "name": "appone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adept07/appone.git"
+  },
+  "author": "adept07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adept07/appone/issues"
+  },
+  "homepage": "https://github.com/adept07/appone#readme"
+}
